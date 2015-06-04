@@ -412,6 +412,7 @@
 				1A5771F71B201DDC005D3B3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A5771F81B201DDC005D3B3B /* Build configuration list for PBXNativeTarget "CITrialTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				1A5771FA1B201DDC005D3B3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
